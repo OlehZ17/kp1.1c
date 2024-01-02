@@ -1,0 +1,4 @@
+ball, 2000, 2-8 years, 1000g
+car, 3000, 3-10 years, 10x
+doll, 1500, 2-5 years, 20cm
+blocks, 700, 2-4 years, 50
